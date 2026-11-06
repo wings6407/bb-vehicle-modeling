@@ -1,0 +1,4 @@
+interface:
+  display_name: "BB 车辆建模"
+  short_description: "从实车照片制作连续轮廓、立体轮毂、128贴图及悬挂漂移动画"
+  default_prompt: "使用 $bb-vehicle-modeling 根据实车照片制作旧版实体车辆，检查侧面接缝和立体轮毂，输出单张128贴图；按需求制作悬挂反馈、漂移和烟雾。"
